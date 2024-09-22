@@ -2,8 +2,8 @@ package ch_3_first_code
 /**
 Write a code to print hello world
 */
-//fun use to create a function
-// main() is our entry function
+// fun use to create a function
+// main() is our entry point of code
 fun main(){
     //println -> to go next line
     println("Hi World!")
